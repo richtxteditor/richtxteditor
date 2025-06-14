@@ -15,15 +15,28 @@
 
 ###
 
-<h1 align="center">Hey! 👋🏼</h1>
-
-###
-
 <h2 align="left">🧑🏽‍💻  About Me</h2>
 
 ###
 
 <p align="left">I'm John M. from New Jersey, USA.<br><br>- 🔭 I’m working on an e-commerce platform for my family's baked goods business.<br>- 📚 I'm currently learning Data Structures & Algorithms<br>- ⚡ In my free time, I like to read and play video games</p>
+
+###
+
+<h2 align="center">🔥   My Stats :</h2>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=richtxteditor&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=richtxteditor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=richtxteditor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -137,24 +150,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=richtxteditor&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=richtxteditor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=richtxteditor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=richtxteditor.richtxteditor&"  />
 </div>
 
