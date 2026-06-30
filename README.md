@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on interviewing skills
-- 🌱 I’m currently re-learning data structures and algorithms
-- 👯 I’m looking to collaborate on software!
-- 🤔 I’m looking for help ...
+- 🔭 I’m currently working on myself
+- 🌱 I’m currently reinforcing data structures and algorithms
 - 💬 Ask me about anything!
 - 📫 How to reach me: [twitter](https://x.com/freechiee)
 - 😄 Pronouns: he/him
