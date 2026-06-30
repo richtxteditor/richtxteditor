@@ -1,4 +1,4 @@
-## Hi there, I'm John, but some people call me Richie. 👋
+## Hi there, I'm John, but some call me Richie. 👋
 
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently reinforcing data structures and algorithms
